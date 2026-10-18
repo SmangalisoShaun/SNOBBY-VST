@@ -34,6 +34,14 @@ void TempoHelperEditor::timerCallback()
     }
 }
 
+void TempoHelperEditor::mouseDown (const juce::MouseEvent&)
+{
+}
+
+void TempoHelperEditor::mouseMove (const juce::MouseEvent&)
+{
+}
+
 void TempoHelperEditor::paint (juce::Graphics& g)
 {
     g.fillAll (juce::Colour (0xff1b1d22));
