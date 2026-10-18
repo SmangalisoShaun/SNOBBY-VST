@@ -6,8 +6,8 @@ set(CMAKE_CXX_STANDARD 17)
 add_subdirectory(JUCE)
 
 juce_add_plugin(TempoHelper
-    COMPANY_NAME "YourName"
-    PLUGIN_MANUFACTURER_CODE Yrnm
+    COMPANY_NAME "BoomHype Tech"
+    PLUGIN_MANUFACTURER_CODE Bhyp
     PLUGIN_CODE Tmph
     FORMATS VST3
     PRODUCT_NAME "Tempo Helper"
